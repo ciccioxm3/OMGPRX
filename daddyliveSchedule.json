@@ -1,5 +1,197 @@
 {
     "Saturday 24th May 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "12:30",
+                "event": "Rajadamnern World Series | RWS: Khunsueklek vs. Nuapayak",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Monster Energy AMA Supercross Championship CA Fox Raceway at Pala USA",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Fight Club Rush : FCR 24",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "PetrosyanMania Gold Edition",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "2025 NASCAR Modifieds at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 Spring Nationals at North Georgia Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "2025 IRA Sprints at Wilmot Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "21:55",
+                "event": "2025 IMCA Nathan Bouche Memorial at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Kubota HLR Bob Weikert Memorial at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 NASCAR Super Late Models at Berlin Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Weekly Racing at Fonda Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "World of Outlaws Sprint Cars Sharon",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Land of Legends Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "171"
+                    }
+                ]
+            },
+            {
+                "time": "22:20",
+                "event": "2025 CRS Trucks at Jennerstown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "500 Sprint Car Tour Anderson Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "173"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 NASCAR Weekly Racing at South Boston Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "174"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Slapfight Championship Last Man Standing",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Awesome Championship Wrestling: After Shock 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Primos Pro Wrestling: Alpha 9 (2025)",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "162"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "13:00",
