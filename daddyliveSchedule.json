@@ -1,5 +1,127 @@
 {
     "Sunday 25th May 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "15:00",
+                "event": "TNT: Thrill Kill 2022",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "203"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "2025 Memorial Day Classic at Thunder Road Speedbowl",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "204"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "Fury FC 104: Yannis vs Aguirre",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "Super DIRTcar Series Weedsport Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Kubota HLR Bob Weikert Memorial at Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 IRA Sprints at 141 Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 MARS Late Models at Spoon River Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Spring Nationals at Duck River Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Super Late Models at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Xtreme Outlaw Midgets Series",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "23:25",
+                "event": "Husets Late Models Huset's Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "AEW: Double or Nothing 2025",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "108"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
@@ -1850,7 +1972,7 @@
                 "channels": [
                     {
                         "channel_name": "MAX Sport 1 Croatia",
-                        "channel_id": "799"
+                        "channel_id": "779"
                     },
                     {
                         "channel_name": "Arena Sport 10 Serbia",
