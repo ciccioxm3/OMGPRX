@@ -646,7 +646,12 @@
             {
                 "time": "10:00",
                 "event": "Portugal - Campeonato de Portugal : Le\u00e7a vs Paredes",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Canal 11 Portugal",
+                        "channel_id": "540"
+                    }
+                ]
             },
             {
                 "time": "11:00",
