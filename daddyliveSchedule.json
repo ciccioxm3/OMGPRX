@@ -1,5 +1,217 @@
 {
     "Friday 30th May 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "17:15",
+                "event": "SuperBikes MotoAmerica at Road America",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "Super SLAM! II",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "162"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "2025 Weekly Racing at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "163"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "2025 Shakedown XXII",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Kubota High Limit Racing at Lawrenceburg Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Attica Sprints - Attica Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 USAC Corn Belt Clash at Knoxville Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Weekly Racing at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Williams Grove Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Samourai MMA 15",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "Xtreme Outlaw Midgets Coles",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Sprint Cars River Cities",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "American Sprint Car Series Salt City",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 MARS Illinois Valley Showdown at LaSalle Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "108"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 IMCA Weekly Racing at Marshalltown Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 Modified World Championship at Mississippi Thunder Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Unified MMA 62",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Super Gorillaz Wrestling: Rise",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Golden Boy Fight Night: Melikuziev vs. Fulghum",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Matchroom Boxing : Gallegos vs. Coe II",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Budo Striking Vol 29",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "155"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:30",
