@@ -1650,6 +1650,590 @@
                 ]
             }
         ],
+        "ATP - ROLAND GARROS</span>": [
+            {
+                "time": "23:30",
+                "event": "ATP - ROLAND GARROS : Griekspoor T. vs Quinn E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1533"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ATP - ROLAND GARROS : Sinner J. vs Lehecka J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1541"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "ATP - ROLAND GARROS : Zverev A. vs Cobolli F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1516"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1550"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "ATP - ROLAND GARROS : Bublik A. vs Rocha H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "ATP - ROLAND GARROS : Fonseca J. vs Draper J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1558"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "ATP - ROLAND GARROS : Norrie C. vs Fearnley J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1566"
+                    }
+                ]
+            },
+            {
+                "time": "08:45",
+                "event": "ATP - ROLAND GARROS : Misolic F. vs Djokovic N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1516"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1569"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - ROLAND GARROS : Andrey Rublev vs Arthur Fils",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1560"
+                    }
+                ]
+            }
+        ],
+        "WTA - ROLAND GARROS</span>": [
+            {
+                "time": "23:30",
+                "event": "WTA - ROLAND GARROS : Kasatkina D. vs Badosa P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1534"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "WTA - ROLAND GARROS : Andreeva M. vs Putintseva Y.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1535"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - ROLAND GARROS : Vondrousova M. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1516"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1540"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA - ROLAND GARROS : Jacquemot E. vs Boisson L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1542"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "WTA - ROLAND GARROS : Kudermetova V. vs Alexandrova E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1549"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "WTA - ROLAND GARROS : Baptiste H. vs Bouzas Maneiro J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1523"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1559"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "WTA - ROLAND GARROS : Bouzkova M. vs Gauff C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1561"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "WTA - ROLAND GARROS : Keys M. vs Kenin S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1568"
+                    }
+                ]
+            }
+        ],
+        "ATP DOUBLES - ROLAND GARROS</span>": [
+            {
+                "time": "23:30",
+                "event": "ATP DOUBLES - ROLAND GARROS : Duckworth J./Vukic A. vs Nys H./Roger-Vasselin E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1537"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "ATP DOUBLES - ROLAND GARROS : Romboli F./Smith J. P. vs Cazaux A./Mayot H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1536"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ATP DOUBLES - ROLAND GARROS : Arevalo M./Pavic M. vs Bellucci M./Marozsan F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1543"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "ATP DOUBLES - ROLAND GARROS : Krawietz K./Puetz T. vs Dodig I./Luz O.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1544"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "ATP DOUBLES - ROLAND GARROS : Balaji N. S./Reyes-Varela M. A. vs Bolelli S./Vavassori A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1555"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "ATP DOUBLES - ROLAND GARROS : Borges N./Rinderknech A. vs Goransson A./Verbeek S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "ATP DOUBLES - ROLAND GARROS : Gonzalez S./Krajicek A. vs Halys Q./Olivetti A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "ATP DOUBLES - ROLAND GARROS : Paul J./Pel D. vs Arends S./Johnson L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    }
+                ]
+            }
+        ],
+        "WTA DOUBLES - ROLAND GARROS</span>": [
+            {
+                "time": "23:30",
+                "event": "WTA DOUBLES - ROLAND GARROS : Bronzetti L./Li A. vs Chan H-C./Olmos G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1539"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA DOUBLES - ROLAND GARROS : Begu I./Wickmayer Y. vs Melichar-Martinez/Samsonova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1548"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA DOUBLES - ROLAND GARROS : Detiuc A./Starodubtseva Y. vs Babos T./Stefani L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1545"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA DOUBLES - ROLAND GARROS : Jiang X./Wu F. vs Danilina A./Krunic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1547"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "WTA DOUBLES - ROLAND GARROS : Sun L./Yuan Y. vs Errani S./Paolini J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1546"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "WTA DOUBLES - ROLAND GARROS : Hsieh S-W./Ostapenko J. vs Rakhimova K./Siskova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1556"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "WTA DOUBLES - ROLAND GARROS : Pavlyuchenkova/Pridankina vs Muhammad/Schuurs",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1562"
+                    }
+                ]
+            },
+            {
+                "time": "04:30",
+                "event": "WTA DOUBLES - ROLAND GARROS : Kudermetova V./Mertens E. vs Alexandrova E./Stearns P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1567"
+                    }
+                ]
+            }
+        ],
+        "MIXED DOUBLES - ROLAND GARROS</span>": [
+            {
+                "time": "23:30",
+                "event": "MIXED DOUBLES - ROLAND GARROS : Krawczyk D./Skupski N. vs Routliffe E./Venus M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1538"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "MIXED DOUBLES - ROLAND GARROS : Bucsa C./Matos R. vs Olmos G./Glasspool L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1557"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "MIXED DOUBLES - ROLAND GARROS : Danilina A./Heliovaara H. vs Nicholls O./Patten H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1565"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Parry D./Mayot H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1564"
+                    }
+                ]
+            },
+            {
+                "time": "04:00",
+                "event": "MIXED DOUBLES - ROLAND GARROS : Stefani L./Gonzalez M. vs Zhang S./Arevalo M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1563"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "09:00",
